@@ -52,8 +52,7 @@ $trivia_questions = [
 
 ## Author
 
-[Your Name](https://yourwebsite.com/)
 
----
+## Author
 
-Feel free to customize this description further to fit your preferences.
+[Virtual Market Advantage](https://virtualmarketadvantage.com/)
